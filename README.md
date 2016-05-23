@@ -1,0 +1,2 @@
+# thevirus
+For codingame
